@@ -7,6 +7,7 @@ wpu resolusi
 
 belajar java script
 - view js
+- react js
 php framwwork
 - larafel
 -pyton
