@@ -6,9 +6,7 @@ wpu resolusi
 - megurangi tepung
 
 belajar java script
-- view js
+ coba-fitur-2
+- angular
 - react js
-php framwwork
-- larafel
--pyton
-
+larafel
